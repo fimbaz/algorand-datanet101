@@ -1,0 +1,15 @@
+{
+    "Version": 16,
+    "GossipFanout": 32,
+    "NetAddress": "0.0.0.0:35334",
+    "Archival": false,
+    "DNSBootstrapID": "<network>.algorand.taxon.us",
+    "DNSSecurityFlags":0,
+    "EnableBlockService": true,
+    "EnableLedgerService": true,
+    "EnableProfiler": false,
+    "LogSizeLimit": 1073741824,
+    "CatchpointFileHistoryLength":0,
+    "EnableDeveloperAPI": false,
+    "EndpointAddress": "127.0.0.1:35335"
+}
