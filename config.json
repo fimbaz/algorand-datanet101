@@ -5,11 +5,12 @@
     "Archival": false,
     "DNSBootstrapID": "<network>.algorand.taxon.us",
     "DNSSecurityFlags":0,
-    "EnableBlockService": true,
-    "EnableLedgerService": true,
+    "EnableBlockService": false,
+    "EnableLedgerService": false,
     "EnableProfiler": false,
     "LogSizeLimit": 1073741824,
     "CatchpointFileHistoryLength":0,
     "EnableDeveloperAPI": false,
-    "EndpointAddress": "127.0.0.1:35335"
+    "EndpointAddress": "127.0.0.1:35335",
+    "CatchpointInterval": 0
 }
