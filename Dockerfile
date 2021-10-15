@@ -1,4 +1,4 @@
-FROM algorand-datanet101:latest
+FROM fimbaz/go-algorand-datanet101:latest
 ENV ALGORAND_DATA=/root/.algorand/
 COPY config.json /root/.algorand/
 COPY consensus.json /root/.algorand/
