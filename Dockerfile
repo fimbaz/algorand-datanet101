@@ -5,6 +5,6 @@ COPY consensus.json /root/.algorand/
 COPY entrypoint.bash ./
 EXPOSE 35334/tcp
 EXPOSE 35335/tcp
-CMD apt install inotify-tools emacs-nox
+CMD apt install inotify-tools emacs-nox curl
 ARG CATCHPOINT=""
 ENTRYPOINT ["./entrypoint.bash"]
