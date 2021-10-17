@@ -10,4 +10,4 @@ EXPOSE 35334/tcp
 EXPOSE 35335/tcp
 RUN apt-get install -y inotify-tools curl emacs-nox
 ARG CATCHPOINT=""
-ENTRYPOINT ["./entrypoint.bash"]
+ENTRYPOINT ["./datanet101.bash"]
