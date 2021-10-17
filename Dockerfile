@@ -1,9 +1,11 @@
 FROM fimbaz/go-algorand-datanet101:latest
-ENV ALGORAND_DATA=/root/.algorand/
-COPY config.json /root/.algorand/
-COPY consensus.json /root/.algorand/
-COPY genesis.json /root/.algorand/
-COPY entrypoint.bash ./
+RUN mkdir -p /opt/datanet101/
+WORKDIR /opt/datanet101/
+ENV ALGORAND_DATA=/opt/datanet101/
+COPY config.json .
+COPY consensus.json .
+COPY genesis.json .
+COPY datanet101.bash .
 EXPOSE 35334/tcp
 EXPOSE 35335/tcp
 RUN apt-get install -y inotify-tools curl emacs-nox
