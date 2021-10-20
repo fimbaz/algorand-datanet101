@@ -12,5 +12,6 @@
     "CatchpointFileHistoryLength":0,
     "EnableDeveloperAPI": false,
     "EndpointAddress": "127.0.0.1:35335",
-    "CatchpointInterval": 0
+    "CatchpointInterval": 0,
+    "TxSyncServeResponseSize":100000000
 }
