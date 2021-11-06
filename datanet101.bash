@@ -10,6 +10,8 @@ while sleep 1; do
 done
 if [[ ! $ARCHIVAL ]]; then
     goal node catchup $(curl https://raw.githubusercontent.com/fimbaz/algorand-datanet101/master/catchpoint.latest)
+else
+    sed -i 's/"Archival": false/"Archive": true/' config.json
 fi
 tail -f /opt/datanet101/node.log&
 while sleep 5; do
