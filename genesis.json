@@ -17,31 +17,31 @@
       }
     },
     {
-      "addr": "7OR455WSDPZ2C2MSV5RNRLZH3TC4OUZLQRG7YH5GPF7IM2DM7I2PBBWG5E",
+      "addr": "6D6E4TL6EFXW3DEF2I7N6M7N543N5NNEREJTMQ3THY7JLLJQVVD7CIGKXY",
       "comment": "Wallet1",
       "state": {
         "algo": 5000000000000000,
         "onl": 1,
-        "sel": "IiqSgS3Zx7ZrHNipYCUC7YBwjjezIc0Btfgly2j52jg=",
-        "vote": "ueMpP0cTGxkH4N63GEMOvHPZoHhdb/Y5vBNYNe6k/Qw=",
+        "sel": "gBpzc/wrP8rdYv5lQxVr9hisy5nfjJ22B7nGpoc9hZc=",
+        "vote": "lnmbHtL/4MPBY581BFOOeKSuZu6hf+Xy6MTTKOGiLcA=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "SUMDOZQEIGGF3YZMYV4NU46QGQNEAWX6EZMFLY2G7RVMMHAZGFQFU5CAUU",
+      "addr": "KDVK2G2YCGPW2M3DD5JSH3FTXVYJYAOY4TPRE2HMLLOM636GKM26CII6IQ",
       "comment": "Wallet2",
       "state": {
         "algo": 4000000000000000,
         "onl": 1,
-        "sel": "JzlRGF0yJlsacERDPEVX1D3Q4XvxgRXnhOc57qNDlw8=",
-        "vote": "AmEF1M/vfTB0lzoY8ypPBQnd8fcHJUD7RKmPV+fQEik=",
+        "sel": "Tqu3Miw/SSXsBcKJdGB9USTYyVUD+EynnYi90xTcx/w=",
+        "vote": "8CIsi3/MO4l1Xyohuay9s08/9QEfj2MVaq5fiCH7/XY=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "ULVEAQRKC7F67JCFVYZ6DE7IWZ23ZIK2EML2FLM7BBLMCJH5ZSPGK2LC6E",
+      "addr": "EFJYJSZ5P575UV6JI35ENFMNBTCOI2YHZ7HMJSOTX5U4ROLKG5LXYGJBEI",
       "comment": "Wallet3",
       "state": {
         "algo": 1000000000000000
@@ -51,6 +51,6 @@
   "fees": "A7NMWS3NT3IUDMLVO26ULGXGIIOUQ3ND2TXSER6EBGRZNOBOUIQXHIBGDE",
   "id": "v1",
   "network": "datanet101",
-  "proto": "https://github.com/algorandfoundation/specs/tree/abc54f79f9ad679d2d22f0fb9909fb005c16f8a1",
+  "proto": "https://github.com/algorandfoundation/specs/tree/bc36005dbd776e6d1eaf0c560619bb183215645c",
   "rwd": "7777777777777777777777777777777777777777777777777774MSJUVU"
 }
