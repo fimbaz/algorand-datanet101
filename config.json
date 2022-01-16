@@ -8,10 +8,10 @@
     "EnableBlockService": true,
     "EnableLedgerService": true,
     "EnableProfiler": false,
-    "LogSizeLimit": 1073741824,
-    "CatchpointFileHistoryLength":0,
+    "LogSizeLimit": 10000000,
+    "CatchpointFileHistoryLength":2,
     "EnableDeveloperAPI": false,
     "EndpointAddress": "127.0.0.1:35335",
-    "CatchpointInterval": 0,
+    "CatchpointInterval": 10000,
     "TxSyncServeResponseSize":100000000
 }
