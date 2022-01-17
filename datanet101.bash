@@ -1,10 +1,4 @@
 #!/bin/bash
-if [[ $ARCHIVAL ]]; then
-    sed -i 's/"Archival": false/"Archive": true/' /opt/datanet101/config.json
-fi
-goal node start
-sleep 10
-goal node stop
 goal node start
 while sleep 1; do
     if [[ -e /opt/datanet101/algod.pid ]]; then
@@ -13,7 +7,7 @@ while sleep 1; do
     fi
     echo "waiting..."
 done
-if [[ ! $ARCHIVAL ]]; then
+if [[  $CATCHUP ]]; then
     goal node catchup $(curl https://raw.githubusercontent.com/fimbaz/algorand-datanet101/master/catchpoint.latest)
 fi
 tail -f /opt/datanet101/node.log&
