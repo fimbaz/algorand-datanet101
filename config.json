@@ -7,11 +7,13 @@
     "DNSSecurityFlags":0,
     "EnableBlockService": true,
     "EnableLedgerService": true,
+    "EnableGossipBlockService": true,
     "EnableProfiler": false,
     "LogSizeLimit": 10000000,
     "CatchpointFileHistoryLength":2,
     "EnableDeveloperAPI": false,
     "EndpointAddress": "127.0.0.1:35335",
-    "CatchpointInterval": 10000,
-    "TxSyncServeResponseSize":100000000
+    "CatchpointInterval": 100,
+    "TxSyncServeResponseSize":100000000,
+    "CatchpointTracking":1
 }

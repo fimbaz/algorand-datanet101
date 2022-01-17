@@ -1,13 +1,17 @@
 {
     "alloc": [
     {
-	"addr": "ALGORANDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIN5DNAU",
-      "comment": "A SQUID EATING DOUGH IN A POLYETHYLENE BAG IS FAST AND BULBOUS, GOT ME?  FAST AND BULBOUS, -- Alan Greenspan",
+      "addr": "ALGORANDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIN5DNAU",
+      "comment": "There was an Old Man with a beard,
+Who said, 'It is just as I feared! --
+Two Owls and a Hen, four Larks and a Wren,
+Have all built their nests in my beard.'",
       "state": {
         "algo": 1000000,
         "onl": 2
       }
     },
+	
     {
       "addr": "7777777777777777777777777777777777777777777777777774MSJUVU",
       "comment": "RewardsPool",
@@ -25,31 +29,31 @@
       }
     },
     {
-      "addr": "TT5VPDHTNYHGGLGXWLPJ4FV3AGDRG3AK6JHFGQEAMELSS6GWTRN67VEHLE",
+      "addr": "MEFC7N26UPRL547NASLMX473LHPZFLFMYJ37NLW4APDAKLDT4ECFBIYRHA",
       "comment": "Wallet1",
       "state": {
         "algo": 5000000000000000,
         "onl": 1,
-        "sel": "yqrL0QY2F/vPwqQ0l2T/uZmGFWSTGYitcyuoh2tddzA=",
-        "vote": "1FDo0PY0G2ZTLvKOoz+ZbIo3OQMeNbayVmXCiHBxNTE=",
+        "sel": "Boln5+5/CRYhOdopvqOca9tpRiBnczgwR6UGbFQfL98=",
+        "vote": "GdAjpg1d+UK1rbLRGZtcjG+7Lw3t6fKbyZxDTN0O3e4=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "Q5DNRGLSAA2VQXMGKSVUM62QCDFZ3XW5ZWVBUFEO2H4UQ5SJSTKD7K53WE",
+      "addr": "KTJIB6GHY3PP5LNCREBGVDZ2OOTEJY7Q2EFMVVZNB2MTMYCBRBMUK67UJI",
       "comment": "Wallet2",
       "state": {
         "algo": 4000000000000000,
         "onl": 1,
-        "sel": "c+uRuP8V2x+2uGqYnhYHiYFpKd2QL7PoycLcb74FakQ=",
-        "vote": "EDjybaJnnI96aYIBhibQ/B69r6r4qOwz001s4+D0/gw=",
+        "sel": "W7uk0842gYZMjRXjCDWb2AyMFfYYvbt4klCWcKbez1Q=",
+        "vote": "aGxpM7KvUAUHEjeTxILAQw9R2PY0BWM0fzSDrmBzwCQ=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "JZQJB3ZIBICOOXSSWLHJUIIWGDXXP7C27OIZOBRRGJIN6FO33HYZBTJ6YA",
+      "addr": "CQHLB52S2TIX6ALWV5P3BA6VRCRGDLUNRNMVG3HHCZPA5FBJL74PIGEOME",
       "comment": "Wallet3",
       "state": {
         "algo": 1000000000000000
