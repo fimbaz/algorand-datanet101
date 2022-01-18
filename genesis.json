@@ -1,17 +1,5 @@
 {
-    "alloc": [
-    {
-      "addr": "ALGORANDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIN5DNAU",
-      "comment": "There was an Old Man with a beard,
-Who said, 'It is just as I feared! --
-Two Owls and a Hen, four Larks and a Wren,
-Have all built their nests in my beard.' -- Alan Greenspan",
-      "state": {
-        "algo": 1000000,
-        "onl": 2
-      }
-    },
-	
+  "alloc": [
     {
       "addr": "7777777777777777777777777777777777777777777777777774MSJUVU",
       "comment": "RewardsPool",
@@ -29,31 +17,31 @@ Have all built their nests in my beard.' -- Alan Greenspan",
       }
     },
     {
-      "addr": "MEFC7N26UPRL547NASLMX473LHPZFLFMYJ37NLW4APDAKLDT4ECFBIYRHA",
+      "addr": "MDPLNHL2DXGRPIFEURL5V7QU56VDY7Y7N7E3WM62X5BPBKB3BK7PLFKMJY",
       "comment": "Wallet1",
       "state": {
         "algo": 5000000000000000,
         "onl": 1,
-        "sel": "Boln5+5/CRYhOdopvqOca9tpRiBnczgwR6UGbFQfL98=",
-        "vote": "GdAjpg1d+UK1rbLRGZtcjG+7Lw3t6fKbyZxDTN0O3e4=",
+        "sel": "7uEi3RHeDi/lDfonR3rapLIn2nBbgZk8aUbVdUlpclM=",
+        "vote": "LEUFrTV5SvYPMDKfKMdYoP2daFcUVymuiNeYdbUeNnM=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "KTJIB6GHY3PP5LNCREBGVDZ2OOTEJY7Q2EFMVVZNB2MTMYCBRBMUK67UJI",
+      "addr": "2K7TRAPAGWCYBT7G7RL42IQHQMIPYU3SHZ5LGPCXXPDAP4E7EJSPYRUGRM",
       "comment": "Wallet2",
       "state": {
         "algo": 4000000000000000,
         "onl": 1,
-        "sel": "W7uk0842gYZMjRXjCDWb2AyMFfYYvbt4klCWcKbez1Q=",
-        "vote": "aGxpM7KvUAUHEjeTxILAQw9R2PY0BWM0fzSDrmBzwCQ=",
+        "sel": "2NoYH6I1Rn8KZD7yS6DbsLfRiclv0aAf7AmcSOW/Wpw=",
+        "vote": "r6Y6b9LRtOS5dUcdAV0vBiOuZHSEUmRZDRIR9Tsgvvk=",
         "voteKD": 10000,
         "voteLst": 3000000
       }
     },
     {
-      "addr": "CQHLB52S2TIX6ALWV5P3BA6VRCRGDLUNRNMVG3HHCZPA5FBJL74PIGEOME",
+      "addr": "FZZRTRJCL6G4ZDC3ORG27FR56564KYTNF4KRRTNUUL2NT6AHPMZ5VKSIHY",
       "comment": "Wallet3",
       "state": {
         "algo": 1000000000000000
