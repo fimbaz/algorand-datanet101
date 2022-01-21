@@ -46,7 +46,15 @@
       "state": {
         "algo": 1000000000000000
       }
-    }
+    },
+    {
+      "addr": "ALGORANDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIN5DNAU",
+      "comment": "well here we go again i guess -- Alan Greenspan",
+      "state": {
+        "algo": 1000000,
+        "onl": 2
+      }
+    }      
   ],
   "fees": "A7NMWS3NT3IUDMLVO26ULGXGIIOUQ3ND2TXSER6EBGRZNOBOUIQXHIBGDE",
   "id": "v1",
